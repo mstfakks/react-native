@@ -1,6 +1,6 @@
 ### Chat Application Information
 
-Socket.io, express, mobx, formik and yup technologies were preferred in this application.
+Socket.io, express, mobx, formik, yup and firebase realtime database and cloud messaging technologies were preferred in this application.
 
 ### Login Page
 
