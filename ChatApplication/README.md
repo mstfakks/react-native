@@ -16,7 +16,8 @@ You can create new account your mail and password this application
 
 You can see all of the rooms which created other users
 
-![3-)Rooms Page](https://user-images.githubusercontent.com/45832074/197339869-83581b3a-f92f-4b21-a501-2cd6b3490067.jpg)
+![3-)Chat Rooms](https://user-images.githubusercontent.com/45832074/197340355-892a42dd-b171-49c8-b420-7cae7aa3aa61.jpg)
+
 
 ### Create Room Page
 
